@@ -42,7 +42,7 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 - Coming soon...
 
 ### Module 11: JavaScript Syntax, Part II
-- [Secret Message](https://gist.github.com/leonardo-astete/tu-gist-id) - Array Methods - Jan 15, 2026
+- [Secret Message](https://gist.github.com/leonardo-astete/f3bcfb65cb4c6256f40062956cedd330) - Array Methods
 
 ### Module 12: Building Interactive Websites
 - Coming soon...
