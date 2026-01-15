@@ -1,116 +1,116 @@
-# Career-path-Front-End-Engineer
+## Career-path-Front-End-Engineer
 Front-End Engineer  - Codecademy projects and daily practice
 
-# 👋 Hi! I'm Leonardo Astete
+## 👋 Hi! I'm Leonardo Astete
 
-## 🚀 About Me
+### 🚀 About Me
 
 Front-End Engineer student following [Codecademy's Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path). I document every project and practical exercise from my learning journey.
 
-## 📚 Projects by Module
+### 📚 Projects by Module
 
 Each module in the course ends with a hands-on project that I upload as a Gist.
 
-### Module 1: Introduction to Front-End Engineer Career Path
+#### Module 1: Introduction to Front-End Engineer Career Path
 - Coming soon...
 
-### Module 2: Overview of Web Development
+#### Module 2: Overview of Web Development
 - Coming soon...
 
-### Module 3: Fundamentals of HTML
+#### Module 3: Fundamentals of HTML
 - Coming soon...
 
-### Module 4: Fundamentals of CSS
+#### Module 4: Fundamentals of CSS
 - Coming soon...
 
-### Module 5: Developing Websites Locally
+#### Module 5: Developing Websites Locally
 - Coming soon...
 
-### Module 6: Deploying Websites
+#### Module 6: Deploying Websites
 - Coming soon...
 
-### Module 7: Improved Styling with CSS
+#### Module 7: Improved Styling with CSS
 - Coming soon...
 
-### Module 8: Fundamentals of Web Design
+#### Module 8: Fundamentals of Web Design
 - Coming soon...
 
-### Module 9: Making a Website Responsive
+#### Module 9: Making a Website Responsive
 - Coming soon...
 
-### Module 10: JavaScript Syntax, Part I
+#### Module 10: JavaScript Syntax, Part I
 - Coming soon...
 
-### Module 11: JavaScript Syntax, Part II
+#### Module 11: JavaScript Syntax, Part II
 - [Secret Message](https://gist.github.com/leonardo-astete/f3bcfb65cb4c6256f40062956cedd330) - Array Methods
 
-### Module 12: Building Interactive Websites
+#### Module 12: Building Interactive Websites
 - Coming soon...
 
-### Module 13: Making A Website Accessible
+#### Module 13: Making A Website Accessible
 - Coming soon...
 
-### Module 14: CSS Transitions and Animation
+#### Module 14: CSS Transitions and Animation
 - Coming soon...
 
-### Module 15: Git and GitHub, Part I
+#### Module 15: Git and GitHub, Part I
 - Coming soon...
 
-### Module 16: Portfolio Project - Personal Portfolio Website
+#### Module 16: Portfolio Project - Personal Portfolio Website
 - Coming soon...
 
-### Module 17: JavaScript Syntax, Part III
+#### Module 17: JavaScript Syntax, Part III
 - Coming soon...
 
-### Module 18: JavaScript Testing
+#### Module 18: JavaScript Testing
 - Coming soon...
 
-### Module 19: Async JavaScript and HTTP Requests
+#### Module 19: Async JavaScript and HTTP Requests
 - Coming soon...
 
-### Module 20: Web Apps
+#### Module 20: Web Apps
 - Coming soon...
 
-### Module 21: React, Part I
+#### Module 21: React, Part I
 - Coming soon...
 
-### Module 22: React, Part II
+#### Module 22: React, Part II
 - Coming soon...
 
-### Module 23: Redux
+#### Module 23: Redux
 - Coming soon...
 
-### Module 24: Git and GitHub, Part II
+#### Module 24: Git and GitHub, Part II
 - Coming soon...
 
-### Module 25: Portfolio Project - Reddit Client
+#### Module 25: Portfolio Project - Reddit Client
 - Coming soon...
 
-### Module 26: Advanced Web Development
+#### Module 26: Advanced Web Development
 - Coming soon...
 
-### Module 27: What To Expect in a Technical Interview
+#### Module 27: What To Expect in a Technical Interview
 - Coming soon...
 
-### Module 28: Linear Data Structures
+#### Module 28: Linear Data Structures
 - Coming soon...
 
-### Module 29: Complex Data Structures
+#### Module 29: Complex Data Structures
 - Coming soon...
 
-### Module 30: Algorithms
+#### Module 30: Algorithms
 - Coming soon...
 
-### Module 31: Search and Graph Search Algorithms
+#### Module 31: Search and Graph Search Algorithms
 - Coming soon...
 
-### Module 32: Interview Skills
+#### Module 32: Interview Skills
 - Coming soon...
 
-### Module 33: Portfolio Project - Open-Ended Project
+#### Module 33: Portfolio Project - Open-Ended Project
 - Coming soon...
 
-### Module 34: Next Steps in Your Front-End Engineer Journey
+#### Module 34: Next Steps in Your Front-End Engineer Journey
 - Coming soon...
 
 [📋 **View all my Gists →**](https://gist.github.com/leonardo-astete)
