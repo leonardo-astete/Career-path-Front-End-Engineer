@@ -43,7 +43,9 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 
 #### Module 11: JavaScript Syntax, Part II
 - [Secret Message](https://gist.github.com/leonardo-astete/f3bcfb65cb4c6256f40062956cedd330) - Array Methods
-- [Whale talk](https://gist.github.com/leonardo-astete/c255d2d7a8acac5c77d83d57f935b4a8) - Array Methods - Loop
+- [Whale talk](https://gist.github.com/leonardo-astete/c255d2d7a8acac5c77d83d57f935b4a8) - Array Methods, Loop
+- [Meal Maker](https://gist.github.com/leonardo-astete/f75917b02e9e8592334c8a78f911a967) - Objects, Properties, Getters, Setters, Type Checking, Template Literals, This Keyword, Truthy/Falsy Validation, Conditional Logic.
+- 
 - 
 #### Module 12: Building Interactive Websites
 - Coming soon...
