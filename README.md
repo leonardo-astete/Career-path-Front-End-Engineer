@@ -46,6 +46,7 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 - [Whale talk](https://gist.github.com/leonardo-astete/c255d2d7a8acac5c77d83d57f935b4a8) - Array Methods, Loop
 - [Meal Maker](https://gist.github.com/leonardo-astete/f75917b02e9e8592334c8a78f911a967) - Objects, Properties, Getters, Setters, Type Checking, Template Literals, This Keyword, Truthy/Falsy Validation, Conditional Logic.
 - [Team Stats](https://gist.github.com/leonardo-astete/d836644f202111a1df6a1e975874bc09) - Object Literals, Arrays of Objects, Private Properties (_), Getters, Factory Methods, Method Parameters, The this Keyword, Array .push(), Data Modeling.
+- [Grammar Checker](https://gist.github.com/leonardo-astete/548fe30a1ad81860b153cdf96ddc6fdb) - Array Iterators, Callback Functions, .split(), .join(), .forEach(), .filter(), .map(), .findIndex(), .every(), String Manipulation, Arrow Functions.
 
 #### Module 12: Building Interactive Websites
 - Coming soon...
