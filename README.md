@@ -47,6 +47,7 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 - [Meal Maker](https://gist.github.com/leonardo-astete/f75917b02e9e8592334c8a78f911a967) - Objects, Properties, Getters, Setters, Type Checking, Template Literals, This Keyword, Truthy/Falsy Validation, Conditional Logic.
 - [Team Stats](https://gist.github.com/leonardo-astete/d836644f202111a1df6a1e975874bc09) - Object Literals, Arrays of Objects, Private Properties (_), Getters, Factory Methods, Method Parameters, The this Keyword, Array .push(), Data Modeling.
 - [Grammar Checker](https://gist.github.com/leonardo-astete/548fe30a1ad81860b153cdf96ddc6fdb) - Array Iterators, Callback Functions, .split(), .join(), .forEach(), .filter(), .map(), .findIndex(), .every(), String Manipulation, Arrow Functions.
+- [Credit Card Checker](https://gist.github.com/leonardo-astete/9be2d3b66fb2139be25db2c41def0bac) - Nested Arrays, Loops (for/while), Backward Iteration, Modulo Operator (%), Array Immutability, Conditional Logic, Logical Operators, Deduplication, Data Validation.
 
 #### Module 12: Building Interactive Websites
 - Coming soon...
