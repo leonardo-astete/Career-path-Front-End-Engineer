@@ -50,7 +50,7 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 - [Credit Card Checker](https://gist.github.com/leonardo-astete/9be2d3b66fb2139be25db2c41def0bac) - Nested Arrays, Loops (for/while), Backward Iteration, Modulo Operator (%), Array Immutability, Conditional Logic, Logical Operators, Deduplication, Data Validation.
 
 #### Module 12: Building Interactive Websites
-- Coming soon...
+- [Piano Player](https://gist.github.com/leonardo-astete/b731b856c6c77d0ff985680b14e748f4) - DOM Events (mousedown, mouseup, click), .target Property, .forEach(), .innerHTML, .hidden Property, Style Manipulation, Anonymous Functions, Event Handler Assignment, Named Functions.
 
 #### Module 13: Making A Website Accessible
 - Coming soon...
