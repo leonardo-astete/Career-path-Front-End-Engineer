@@ -51,6 +51,7 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 
 #### Module 12: Building Interactive Websites
 - [Piano Player](https://gist.github.com/leonardo-astete/b731b856c6c77d0ff985680b14e748f4) - DOM Events (mousedown, mouseup, click), .target Property, .forEach(), .innerHTML, .hidden Property, Style Manipulation, Anonymous Functions, Event Handler Assignment, Named Functions.
+- [Form a Story](https://gist.github.com/leonardo-astete/88c197b002b1565d9fc6b5b98cd94e81) - HTML Forms, GET Method, Input Types (text, number, radio, submit), Labels, Textarea, Select & Option, Datalist, Required Validation, ID vs Name Attributes.
 
 #### Module 13: Making A Website Accessible
 - Coming soon...
