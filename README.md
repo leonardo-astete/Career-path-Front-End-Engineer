@@ -67,6 +67,7 @@ Each module in the course ends with a hands-on project that I upload as a Gist.
 
 #### Module 17: JavaScript Syntax, Part III
 - [Build a Library](https://gist.github.com/leonardo-astete/e345a56955b66ae946fd1770e25c7540) - JavaScript Classes, constructor(), Inheritance (extends), super(), Getters & Setters, Array.reduce(), Boolean Toggling, Data Encapsulation (_naming convention).
+- [School Catalogue](https://gist.github.com/leonardo-astete/443c8a975194bfe6eaf6142ef147bc7d) - Classes, Inheritance (extends), super(), Static Methods, Getters/Setters, Data Validation, Math Logic.
 
 #### Module 18: JavaScript Testing
 - Coming soon...
